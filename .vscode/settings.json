@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "rand.h": "c",
+        "btstack_run_loop.h": "c",
+        "cyw43_arch.h": "c",
+        "btstack_event.h": "c",
+        "hci_dump_embedded_stdout.h": "c",
+        "cyw43_configport.h": "c"
+    }
+}
